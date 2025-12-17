@@ -1,0 +1,47 @@
+# ============================================================
+# Türkçe E-Ticaret Yorum Analizi - Gereksinimler
+# ============================================================
+# Kurulum: pip install -r requirements.txt
+# ============================================================
+
+# Temel Veri İşleme
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Makine Öğrenmesi
+scikit-learn>=1.3.0
+
+# Doğal Dil İşleme
+TurkishStemmer>=1.3
+
+# Görselleştirme
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web Arayüzü
+gradio>=4.0.0
+
+# Veri Seti İndirme
+datasets>=2.14.0
+requests>=2.31.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Model Kaydetme
+joblib>=1.3.0
+
+# İsteğe Bağlı: BERT Fine-tuning
+# transformers>=4.35.0
+# torch>=2.1.0
+# accelerate>=0.24.0
+
+# İsteğe Bağlı: API Servisi
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
+
+# Geliştirme Araçları
+# pytest>=7.4.0
+# black>=23.10.0
+# flake8>=6.1.0

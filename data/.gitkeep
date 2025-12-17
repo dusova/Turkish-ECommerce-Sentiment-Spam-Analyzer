@@ -1,0 +1,8 @@
+# Bu klasör veri setlerini içerir
+# CSV dosyaları boyut sınırı nedeniyle git'e dahil edilmez
+#
+# Veri setini indirmek için:
+#   python src/utils.py
+#
+# veya manuel olarak:
+#   https://huggingface.co/datasets/maydogan23/TRSAv1

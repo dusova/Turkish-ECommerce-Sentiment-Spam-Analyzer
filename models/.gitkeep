@@ -1,0 +1,6 @@
+# Bu klasör eğitilmiş model dosyalarını içerir
+# Model dosyaları (.pkl, .joblib) boyut sınırı nedeniyle git'e dahil edilmez
+# 
+# Modelleri oluşturmak için:
+#   python src/model.py
+#   python src/spam_detector.py
